@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../u3spring_aop002" />
+    <file type="web" url="file://$PROJECT_DIR$/../u3spring_mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../u3spring_mvc001" />
+    <file type="web" url="file://$PROJECT_DIR$/../u3spring_mvcoo1" />
+    <file type="web" url="file://$PROJECT_DIR$/../u3Springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../u3ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../u3ssm_001" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3mybatis/pom.xml" />
+        <option value="D:/u3mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3mybatis02/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3mybatis001/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3mybatisGenerator/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3springIoc/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3springAop/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3Spring001/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3Springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3spring_aop002/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3spring_Ioc001/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3spring_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../u3ssm_001/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

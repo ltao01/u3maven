@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/../parebt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3Springmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSM03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3mybatis001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3mybatis02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3mybatisGenerator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3springAop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3springIoc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3spring_Ioc001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3spring_aop002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3spring_mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3ssm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../u3ssm_001" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

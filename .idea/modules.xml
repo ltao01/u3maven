@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../u3Springmvc/u3Springmvc.iml" filepath="$PROJECT_DIR$/../u3Springmvc/u3Springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u3maven.iml" filepath="$PROJECT_DIR$/u3maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3mybatis/u3mybatis.iml" filepath="$PROJECT_DIR$/../u3mybatis/u3mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3mybatis001/u3mybatis001.iml" filepath="$PROJECT_DIR$/../u3mybatis001/u3mybatis001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3mybatis02/u3mybatis02.iml" filepath="$PROJECT_DIR$/../u3mybatis02/u3mybatis02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3mybatisGenerator/u3mybatisGenerator.iml" filepath="$PROJECT_DIR$/../u3mybatisGenerator/u3mybatisGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3springAop/u3springAop.iml" filepath="$PROJECT_DIR$/../u3springAop/u3springAop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3springIoc/u3springIoc.iml" filepath="$PROJECT_DIR$/../u3springIoc/u3springIoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3spring_Ioc001/u3spring_Ioc001.iml" filepath="$PROJECT_DIR$/../u3spring_Ioc001/u3spring_Ioc001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3spring_aop002/u3spring_aop002.iml" filepath="$PROJECT_DIR$/../u3spring_aop002/u3spring_aop002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3spring_mvc/u3spring_mvc.iml" filepath="$PROJECT_DIR$/../u3spring_mvc/u3spring_mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3ssm/u3ssm.iml" filepath="$PROJECT_DIR$/../u3ssm/u3ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../u3ssm_001/u3ssm_001.iml" filepath="$PROJECT_DIR$/../u3ssm_001/u3ssm_001.iml" />
+    </modules>
+  </component>
+</project>

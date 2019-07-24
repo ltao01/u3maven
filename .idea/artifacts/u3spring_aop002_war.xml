@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="u3spring_aop002:war">
+    <output-path>$PROJECT_DIR$/../u3spring_aop002/target</output-path>
+    <root id="archive" name="u3spring_aop002.war">
+      <element id="artifact" artifact-name="u3spring_aop002:war exploded" />
+    </root>
+  </artifact>
+</component>

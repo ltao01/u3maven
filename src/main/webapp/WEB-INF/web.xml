@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+		  http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         version="2.5">
+  <servlet>
+    <servlet-name>show</servlet-name>
+    <servlet-class>user.web.showServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>show</servlet-name>
+    <url-pattern>/show</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>select</servlet-name>
+    <servlet-class>user.web.selectServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>select</servlet-name>
+    <url-pattern>/select</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>delete</servlet-name>
+    <servlet-class>user.web.deleteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>delete</servlet-name>
+    <url-pattern>/delete</url-pattern>
+  </servlet-mapping>
+</web-app>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="u3spring_mvcoo1:war">
+    <output-path>$PROJECT_DIR$/../u3spring_mvcoo1/target</output-path>
+    <root id="archive" name="SpringMvc01.war">
+      <element id="artifact" artifact-name="u3spring_mvcoo1:war exploded" />
+    </root>
+  </artifact>
+</component>

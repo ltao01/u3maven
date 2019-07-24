@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pojo" />
+        <module name="u3maven" />
+        <module name="u3mybatis" />
+        <module name="u3mybatis001" />
+        <module name="u3mybatis02" />
+        <module name="u3mybatisGenerator" />
+        <module name="u3Spring001" />
+        <module name="u3spring_aop002" />
+        <module name="u3spring_Ioc001" />
+        <module name="u3spring_mvc" />
+        <module name="u3springAop" />
+        <module name="u3springIoc" />
+        <module name="u3Springmvc" />
+        <module name="u3ssm" />
+        <module name="u3ssm_001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parebt" target="1.8" />
+      <module name="pojo" target="1.8" />
+      <module name="SSM03" target="1.8" />
+      <module name="u3" target="1.8" />
+      <module name="u3maven" target="1.8" />
+      <module name="u3maybatis01" target="1.8" />
+      <module name="u3mybatis" target="1.8" />
+      <module name="u3mybatis001" target="1.8" />
+      <module name="u3mybatis01" target="1.8" />
+      <module name="u3mybatis02" target="1.8" />
+      <module name="u3mybatisGenerator" target="1.8" />
+      <module name="u3Spring001" target="1.8" />
+      <module name="u3spring_aop002" target="1.8" />
+      <module name="u3spring_Ioc001" target="1.8" />
+      <module name="u3spring_mvc" target="1.8" />
+      <module name="u3spring_mvc001" target="1.8" />
+      <module name="u3spring_mvcoo1" target="1.8" />
+      <module name="u3springAop" target="1.8" />
+      <module name="u3springIoc" target="1.8" />
+      <module name="u3Springmvc" target="1.8" />
+      <module name="u3ssm" target="1.8" />
+      <module name="u3ssm_001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
