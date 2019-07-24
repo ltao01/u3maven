@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="pojo" />
-        <module name="u3maven" />
         <module name="u3mybatis" />
         <module name="u3mybatis001" />
         <module name="u3mybatis02" />
@@ -28,7 +27,7 @@
       <module name="pojo" target="1.8" />
       <module name="SSM03" target="1.8" />
       <module name="u3" target="1.8" />
-      <module name="u3maven" target="1.8" />
+      <module name="u3maven" target="1.7" />
       <module name="u3maybatis01" target="1.8" />
       <module name="u3mybatis" target="1.8" />
       <module name="u3mybatis001" target="1.8" />
@@ -44,7 +43,7 @@
       <module name="u3springAop" target="1.8" />
       <module name="u3springIoc" target="1.8" />
       <module name="u3Springmvc" target="1.8" />
-      <module name="u3ssm" target="1.8" />
+      <module name="u3ssm" target="1.7" />
       <module name="u3ssm_001" target="1.8" />
     </bytecodeTargetLevel>
   </component>
